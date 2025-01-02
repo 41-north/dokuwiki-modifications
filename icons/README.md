@@ -1,4 +1,4 @@
-# icons
+# Icons
 
 Customized icons used in the 41N DokuWiki instance. Some of these icons are utilized in 'interwiki' links, while others are replacing DokuWiki-installed icons. 
 
@@ -11,13 +11,4 @@ For more details, please see [https://wiki.41n.co/wiki/dokuwiki-modifications#ic
 Icons that are used to make smileys are located in [smileys/source_icons](https://github.com/41-north/dokuwiki-modifications/tree/main/smileys/source_icons).
 
 ## License/Attributon
-The source icons for these icons, as well as [smileys](https://github.com/41-north/dokuwiki-modifications/tree/main/smileys) are graciously provided by these projects:
-- The following are modified from icons from GitHub's [Primer Octicons](https://github.com/primer/octicons), released under the MIT license.
-  - `alert-16`
-  - `issue-opened-16`
-  - `link-external-16`
-  - `repo-locked-16`
-- The following are modified from icons from Google's [Material Symbols / Material Icons](https://github.com/google/material-design-icons), released under the Apache-2.0 license.
-  - `lightbulb-outline`
-  - `ticket-confirmation-outline`
-  - `traffic-cone`
+Please see [icons/attribution](https://github.com/41-north/dokuwiki-modifications/blob/main/icons/attribution.md) for license and attribution statements for the base symbols used in creating these icons.
